@@ -4,6 +4,7 @@ It also dosen't uses game engine logic which means it is made purely on basic kn
 In this Project, you can interact with the 3D Shapes using mouse and can be rotated and also zoomed in or out.
 Currently I have only made a cube.Other shapes can be added easily by only specifying there initial coordinates.
 The next best thing about this project is that I have also included lighting which make the Shapes look real.
+The GUI used is supported by Swing library of javax package.
 ![Screenshot (176)](https://user-images.githubusercontent.com/56961805/116556833-883f6800-a91b-11eb-9d46-710e8f49dcc2.png)
 ![Screenshot (177)](https://user-images.githubusercontent.com/56961805/116556840-8a092b80-a91b-11eb-8020-a9e69b98ea37.png)
 ![Screenshot (178)](https://user-images.githubusercontent.com/56961805/116556843-8a092b80-a91b-11eb-83c6-b8d311e77702.png)
